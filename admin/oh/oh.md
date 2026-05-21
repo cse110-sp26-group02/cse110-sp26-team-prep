@@ -9,24 +9,24 @@
 
 ### Week 5
 
-* (\<Name\>) \<Question\>
+* [CANCELLED]
 
 ### Week 6
 
-* (\<Name\>) \<Question\>
+* [CANCELLED]
 
 ### Week 7
 
-* (\<Name\>) \<Question\>
+* [CANCELLED]
 
 ### Week 8
 
-* (\<Name\>) \<Question\>
+* [CANCELLED]
 
 ### Week 9
 
-* (\<Name\>) \<Question\>
+* [CANCELLED]
 
 ### Week 10
 
-* (\<Name\>) \<Question\>
+* [CANCELLED]
